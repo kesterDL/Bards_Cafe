@@ -1,3 +1,5 @@
+# This is a demo of a Gemini generated application
+
 ## D&D Homebrew Hub - Project Structure
 This outlines a typical project structure for the D&D Homebrew Hub React TypeScript application, including dependency management with package.json.
 
